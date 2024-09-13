@@ -1,0 +1,6 @@
+* linguist-vendored
+*.c linguist-vendored=false
+*.h linguist-vendored=false
+*.m linguist-language=Objective-C
+*.xm linguist-language=Objective-C
+*.mm linguist-language=Objective-C
