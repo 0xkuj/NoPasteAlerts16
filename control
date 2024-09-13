@@ -1,0 +1,9 @@
+Package: com.0xkuj.nopastealerts16
+Name: NoPasteAlerts16
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Remove the annoying paste confirmation added on iOS 16
+Maintainer: 0xkuj
+Author: 0xkuj
+Section: Tweaks
+Depends: firmware (>= 16.0)
